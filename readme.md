@@ -28,7 +28,7 @@ import {
 ```
 
 # 单元测试
-```bash
+```
 $ npm install mocha -g
 $ npm run test
 ```
