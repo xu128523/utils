@@ -20,15 +20,20 @@ import {
 } from '../index';
 
 ```
+
 /**
  * 所有接口
  * @param value {any}
  * @return {Boolean}
  */
+ 
 ```
 
 # 单元测试
+
 ```bash
+
 $ npm install mocha -g
 $ npm run test
+
 ```
