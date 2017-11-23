@@ -20,7 +20,6 @@ import {
 } from '../index';
 
 ```
-
 /**
  * 所有接口
  * @param value {any}
